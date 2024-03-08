@@ -8,7 +8,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "akuffco": "^1.1.4",
     "css": "^3.0.0",
+    "mamangjaprut": "^1.1.4",
     "next": "14.1.1",
     "react": "^18",
     "react-dom": "^18"
