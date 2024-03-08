@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/restucode/showmeplz.git"
+    "url": "https://github.com/restucode/showmeplz"
   },
   "author": "",
   "license": "ISC",
